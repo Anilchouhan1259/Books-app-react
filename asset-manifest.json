@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Books-app-react/static/css/main.0d7f9e9e.css",
+    "main.js": "/Books-app-react/static/js/main.10d68108.js",
+    "index.html": "/Books-app-react/index.html",
+    "main.0d7f9e9e.css.map": "/Books-app-react/static/css/main.0d7f9e9e.css.map",
+    "main.10d68108.js.map": "/Books-app-react/static/js/main.10d68108.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0d7f9e9e.css",
+    "static/js/main.10d68108.js"
+  ]
+}
